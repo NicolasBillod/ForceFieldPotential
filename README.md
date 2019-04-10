@@ -8,6 +8,6 @@ The development of the game didn't stop there though, Nicolas continued to work 
 
 We hope you enjoy playing it as much as we enjoyed create it!
 
-Tanguy SOTO
-Nicolas BILLOD
+Tanguy SOTO, 
+Nicolas BILLOD, 
 Guillaume LORTHIOIR
